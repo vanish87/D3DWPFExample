@@ -1,0 +1,3 @@
+C:\Users\liyuan\Documents\Personal\D3DWPFExample\D3DWPFExample\D3DUserControlExample\bin\Debug\D3DUserControlExample.exe.config
+C:\Users\liyuan\Documents\Personal\D3DWPFExample\D3DWPFExample\D3DUserControlExample\bin\Debug\D3DUserControlExample.exe
+C:\Users\liyuan\Documents\Personal\D3DWPFExample\D3DWPFExample\D3DUserControlExample\bin\Debug\D3DUserControlExample.pdb
